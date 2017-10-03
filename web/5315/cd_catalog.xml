@@ -1,12 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <CATALOG xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<CD>
-		<TITLE>The sunset</TITLE>
-		<ARTIST>Bob Williams</ARTIST>
+		<TITLE>The sun set</TITLE>
+		<ARTIST>Bob williams</ARTIST>
 		<COUNTRY>USA</COUNTRY>
 		<COMPANY>Columbia</COMPANY>
 		<PRICE>10.9</PRICE>
 		<YEAR>1985</YEAR>
 	</CD>
-	
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
+	<CD/>
 </CATALOG>
