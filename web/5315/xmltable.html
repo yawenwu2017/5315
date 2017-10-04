@@ -19,11 +19,10 @@
              $(xml).find('CD').each(function(){  
               t.row.add( [
                 $(this).find('ARTIST').text(),
-                $(this).find('TITLE').text(),
+                $(this).find('ARTWORK').text(),
                 $(this).find('YEAR').text(),
-                $(this).find('PRICE').text(),
+                $(this).find('RETAIL_PRICE').text(),
                 $(this).find('COMPANY').text(),
-                $(this).find('COUNTRY').text()
               ] ).draw( false );
              });
             }
@@ -37,22 +36,20 @@
     <thead>
         <tr>
             <th>Artist</th>
-            <th>Title</th>
+            <th>Artwork</th>
             <th>Year</th>
-            <th>Price</th>
+            <th>Retail Price</th>
             <th>Company</th>
-            <th>Country</th>
         </tr>
     </thead>
 
     <tfoot>
         <tr>
             <th>Artist</th>
-            <th>Title</th>
+            <th>Artwork</th>
             <th>Year</th>
-            <th>Price</th>
+            <th>Retail Price</th>
             <th>Company</th>
-            <th>Country</th>
         </tr>
     </tfoot>
   </table>
@@ -78,13 +75,13 @@ function loadXMLDoc() {
 function myFunction(xml) {
   var i;
   var xmlDoc = xml.responseXML;
-  var table="<tr><th>Artist</th><th>Title</th></tr>";
+  var table="<tr><th>Artist</th><th>Artwork</th></tr>";
   var x = xmlDoc.getElementsByTagName("CD");
   for (i = 0; i <x.length; i++) { 
     table += "<tr><td>" +
     x[i].getElementsByTagName("ARTIST")[0].childNodes[0].nodeValue +
     "</td><td>" +
-    x[i].getElementsByTagName("TITLE")[0].childNodes[0].nodeValue +
+    x[i].getElementsByTagName("ARTWORK")[0].childNodes[0].nodeValue +
     "</td></tr>";
   }
   document.getElementById("demo").innerHTML = table;
