@@ -16,7 +16,7 @@
             url: "cd_catalog.xml", 
             dataType: "xml",
             success: function(xml) {  
-             $(xml).find('CD').each(function(){  
+             $(xml).find('INDEX').each(function(){  
               t.row.add( [
                 $(this).find('ARTIST').text(),
                 $(this).find('ARTWORK').text(),

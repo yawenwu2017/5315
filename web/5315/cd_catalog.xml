@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CATALOG>
-	<CD>
+	<INDEX>
 		<ARTWORK>The Sunset</ARTWORK>
 		<ARTIST>Bob Dylan</ARTIST>
 		<COMPANY>Columbia</COMPANY>
 		<RETAIL_PRICE>10.90</RETAIL_PRICE>
 		<YEAR>1985</YEAR>
-	</CD>
-	<CD>
+	</INDEX>
+	<INDEX>
 		<ARTWORK>Title A</ARTWORK>
 		<ARTIST>Picaso</ARTIST>
 		<COMPANY>Individual</COMPANY>
 		<RETAIL_PRICE>11</RETAIL_PRICE>
 		<YEAR>1982</YEAR>
-	</CD>
-	<CD>
+	</INDEX>
+	<INDEX>
 		<ARTWORK>Title B</ARTWORK>
 		<ARTIST>Picaso</ARTIST>
 		<COMPANY>Individual</COMPANY>
 		<RETAIL_PRICE>12</RETAIL_PRICE>
 		<YEAR>1986</YEAR>
-	</CD>
-	<CD>
+	</INDEX>
+	<INDEX>
 		<ARTWORK>No Name A 1987</ARTWORK>
 		<ARTIST>Helen Marely</ARTIST>
 		<COMPANY>International Fame</COMPANY>
 		<RETAIL_PRICE>13</RETAIL_PRICE>
 		<YEAR>1987</YEAR>
-	</CD>
-	<CD>
+	</INDEX>
+	<INDEX>
 		<ARTWORK>Spring </ARTWORK>
 		<ARTIST>Helen Marely</ARTIST>
 		<COMPANY>International Fame </COMPANY>
 		<RETAIL_PRICE>14</RETAIL_PRICE>
 		<YEAR>1988</YEAR>
-	</CD>
-	<CD>
+	</INDEX>
+	<INDEX>
 		<ARTWORK>The Sea </ARTWORK>
 		<ARTIST>Yoko Hiroshi </ARTIST>
 		<COMPANY>Tokyo Prime </COMPANY>
 		<RETAIL_PRICE>15</RETAIL_PRICE>
 		<YEAR>1989</YEAR>
-	</CD>
-	<CD>
+	</INDEX>
+	<INDEX>
 		<ARTWORK>Abyss </ARTWORK>
 		<ARTIST>James Cook </ARTIST>
 		<COMPANY>California Studios </COMPANY>
 		<RETAIL_PRICE>16</RETAIL_PRICE>
 		<YEAR>1990</YEAR>
-	</CD>
-	<CD>
+	</INDEX>
+	<INDEX>
 		<ARTWORK>Fame </ARTWORK>
 		<ARTIST>Mary Liu</ARTIST>
 		<COMPANY>Hongkong Studios </COMPANY>
 		<RETAIL_PRICE>17</RETAIL_PRICE>
 		<YEAR>1991</YEAR>
-	</CD>
-	<CD>
+	</INDEX>
+	<INDEX>
 		<ARTWORK>The Dream</ARTWORK>
 		<ARTIST>Tim Chen </ARTIST>
 		<COMPANY>Hongkong Studios </COMPANY>
 		<RETAIL_PRICE>18</RETAIL_PRICE>
 		<YEAR>1992</YEAR>
-	</CD>
-	<CD>
+	</INDEX>
+	<INDEX>
 		<ARTWORK>Zip it</ARTWORK>
 		<ARTIST>Jacky Mar</ARTIST>
 		<COMPANY>New Yorky </COMPANY>
 		<RETAIL_PRICE>19</RETAIL_PRICE>
 		<YEAR>1993</YEAR>
-	</CD>
+	</INDEX>
 </CATALOG>
