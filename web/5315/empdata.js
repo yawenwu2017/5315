@@ -33,7 +33,7 @@
       "staff_id": "004"
     },
     {
-      "name": "Caesar Vance",
+      "name": "Katy Chen",
       "title": "CEO",
       "salary": "$386,450",
       "joining_date": "2001/12/12",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Shad Decker",
-      "title": "Regional Director",
+      "title": "Vice Director",
       "salary": "$183,000",
       "joining_date": "2008/11/13",
       "city": "Edinburgh",
@@ -53,7 +53,7 @@
       "title": "Senior Javascript Developer",
       "salary": "$133,060",
       "joining_date": "2012/03/29",
-      "city": "Edinburgh",
+      "city": "Seattle",
       "staff_id": "007"
     },
     {
@@ -77,7 +77,7 @@
       "title": "Personnel Lead",
       "salary": "$217,500",
       "joining_date": "2012/09/26",
-      "city": "Edinburgh",
+      "city": "Seattle",
       "staff_id": "010"
     }
   ]
