@@ -2,11 +2,11 @@
   "data": [
     {
       "name": "Garrett Winters",
-      "designation": "Accountant",
+      "title": "Accountant",
       "salary": "$170,750",
       "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "city": "Tokyo",
+      "staff_id": "001"
     },
     {
       "name": "Brielle Williamson",
@@ -14,7 +14,7 @@
       "salary": "$372,000",
       "joining_date": "2012/12/02",
       "office": "New York",
-      "extension": "4804"
+      "extension": "002"
     },
     {
       "name": "Ashton Cox",
@@ -22,7 +22,7 @@
       "salary": "$86,000",
       "joining_date": "2009/01/12",
       "office": "San Francisco",
-      "extension": "1562"
+      "extension": "003"
     },
     {
       "name": "Airi Satou",
@@ -30,7 +30,7 @@
       "salary": "$162,700",
       "joining_date": "2008/11/28",
       "office": "Tokyo",
-      "extension": "5407"
+      "extension": "004"
     },
     {
       "name": "Caesar Vance",
@@ -38,7 +38,7 @@
       "salary": "$106,450",
       "joining_date": "2011/12/12",
       "office": "New York",
-      "extension": "8330"
+      "extension": "005"
     },
     {
       "name": "Shad Decker",
@@ -46,7 +46,7 @@
       "salary": "$183,000",
       "joining_date": "2008/11/13",
       "office": "Edinburgh",
-      "extension": "6373"
+      "extension": "006"
     },
     {
       "name": "Cedric Kelly",
@@ -54,7 +54,7 @@
       "salary": "$433,060",
       "joining_date": "2012/03/29",
       "office": "Edinburgh",
-      "extension": "6224"
+      "extension": "007"
     },
     {
       "name": "Haley Kennedy",
@@ -62,7 +62,7 @@
       "salary": "$313,500",
       "joining_date": "2012/12/18",
       "office": "London",
-      "extension": "3597"
+      "extension": "008"
     },
     {
       "name": "Colleen Hurst",
@@ -70,7 +70,7 @@
       "salary": "$205,500",
       "joining_date": "2009/09/15",
       "office": "San Francisco",
-      "extension": "2360"
+      "extension": "009"
     },
     {
       "name": "Dai Rios",
@@ -78,7 +78,7 @@
       "salary": "$217,500",
       "joining_date": "2012/09/26",
       "office": "Edinburgh",
-      "extension": "2290"
+      "extension": "010"
     },
     {
       "name": "Herrod Chandler",
