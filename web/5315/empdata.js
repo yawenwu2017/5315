@@ -17,7 +17,7 @@
       "staff_id": "002"
     },
     {
-      "name": "Ashton Cox",
+      "name": "Ashley Cox",
       "title": "Junior Technical Author",
       "salary": "$86,000",
       "joining_date": "2009/01/12",
@@ -27,7 +27,7 @@
     {
       "name": "Airi Satou",
       "title": "CFO",
-      "salary": "$162,700",
+      "salary": "$362,700",
       "joining_date": "2008/11/28",
       "city": "Tokyo",
       "staff_id": "004"
@@ -35,7 +35,7 @@
     {
       "name": "Caesar Vance",
       "title": "CEO",
-      "salary": "$206,450",
+      "salary": "$386,450",
       "joining_date": "2001/12/12",
       "city": "New York",
       "staff_id": "005"
@@ -49,9 +49,9 @@
       "staff_id": "006"
     },
     {
-      "name": "Cedric Kelly",
+      "name": "Cathy Kelly",
       "title": "Senior Javascript Developer",
-      "salary": "$433,060",
+      "salary": "$133,060",
       "joining_date": "2012/03/29",
       "city": "Edinburgh",
       "staff_id": "007"
@@ -59,7 +59,7 @@
     {
       "name": "Haley Kennedy",
       "title": "Senior Marketing Designer",
-      "salary": "$313,500",
+      "salary": "$213,500",
       "joining_date": "2012/12/18",
       "city": "London",
       "staff_id": "008"
